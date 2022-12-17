@@ -1,0 +1,64 @@
+fonts :  tt norms
+
+--teal: #00b5ba;
+--black-color: #464646;
+--info-bg-color : #ffded1;
+--btn-purple : #5672c4;
+--btn-pink: #f25e83;
+--black-shade-700 : #6b6b6b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shaddow : 0 3px 6px 0 rgba(0,0,0,.28)

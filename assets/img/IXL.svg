@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon-ixl-logo" viewBox="0 0 48 17">
+        <path fill="white"
+              d="M32 17H48V12.8H39.6V0H32V17Z" />
+        <path fill="white"
+              d="M8.79999 17H17.8L22.4 11.2L26.8 17H36.5L28.3 8.3L36.3 0H27.1L22.9 5.3L18.8 0H8.99999L16.8 8.3L8.79999 17Z" />
+        <path fill="#DBDBDB"
+              d="M32 17H36.5L32 12.2V17ZM36.3 0H32V4.5L36.3 0Z" />
+        <path fill="white"
+              d="M7.1 0H0V17H7.1V0Z" />
+    </symbol>
+</svg>
