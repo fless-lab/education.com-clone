@@ -324,6 +324,10 @@ button {
 
 }
 
+.section-3 .content{
+    padding-inline: 180px;
+}
+
 .section-3 .content-main{
     padding-block-start: 2rem;
     display: flex;
@@ -334,6 +338,7 @@ button {
     margin-top: 2rem;
     align-self: flex-start;
     text-align: start;
+    margin-right: 1rem;
 }
 
 .section-3 .third{
@@ -344,11 +349,13 @@ button {
 
 .subcontent-title{
     font-size: 20px;
+    line-height: 1.275;
     padding-bottom: 1rem;
 }
 
 .subcontent-description{
-    font-size: 17px;
+    font-size: 20px;
+    line-height: 1.25;
 }
 
 .section-4{
