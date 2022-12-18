@@ -156,12 +156,12 @@ ul li {
     background-color: var(--info-bg-color);
     display: grid;
     place-content: center;
-    padding-block: 10px;
+    padding-block: 15px;
 }
 
 .notification-panel p {
     font-weight: 500;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .notification-panel a {
